@@ -14,9 +14,10 @@ To run the optimizer, use the following command structure from the root director
 
 ```bash
 python .\src\alg_nsga2.py .\output\ejemplares\[Instance_File_Name].txt
-
+```
 ## Execution Example
 Test the program with the provided sample instance:
 
 ```bash
 python .\src\alg_nsga2.py .\output\ejemplares\A-n32-k5.txt
+```
