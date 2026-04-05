@@ -1,6 +1,6 @@
-# NSGA-II Route Optimizer for Waste Collection.
+# NSGA-II Route Optimizer for Waste Collection
 
-Python implementation of the **Non-dominated Sorting Genetic Algorithm II (NSGA-II)** for multi-objective vehicle routing optimization. Balances conflicting objectives: distance, time, and waste load.
+Python implementation of the **Non-dominated Sorting Genetic Algorithm II (NSGA-II)** for multi-objective vehicle routing optimization. This engine balances conflicting objectives: distance, time, and waste load.
 
 ## Project Structure
 The repository is organized as follows to ensure correct execution:
